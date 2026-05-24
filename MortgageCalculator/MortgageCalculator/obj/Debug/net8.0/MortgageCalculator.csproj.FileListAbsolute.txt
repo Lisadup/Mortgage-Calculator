@@ -1,0 +1,14 @@
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.exe
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.deps.json
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.runtimeconfig.json
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.dll
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.pdb
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.AssemblyInfoInputs.cache
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.AssemblyInfo.cs
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.dll
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\refint\MortgageCalculator.dll
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.pdb
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.genruntimeconfig.cache
+C:\Users\lisad\source\repos\MortgageCalculator\MortgageCalculator\obj\Debug\net8.0\ref\MortgageCalculator.dll
